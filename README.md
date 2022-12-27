@@ -1,2 +1,26 @@
-# NNLT
-- [Bài tập C đầu tiên](https://www.jdoodle.com/iembed/v0/BBt)
+# BẢN FILE NNLT
+## Bài 3: Các câu lệnh rẽ nhánh
+### [Bài tập trong bài 3](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
+1. [BÀI 1:(Số ngày, số tháng, số âm, số dương, cùng dấu, khác dấu)](https://www.jdoodle.com/embed/v0/5wji)
+2. [BÀI 2:(Nhập vào điểm của một học sinh từ 0 đến 10)](https://www.jdoodle.com/embed/v0/5ASx)
+3. [BÀI 3:(Nhập hai số a, b và một ký tự bất kỳ)](https://www.jdoodle.com/embed/v0/5ASc)
+### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+1. [BÀI 1](https://www.jdoodle.com/embed/v0/5BuH)
+2. [BÀI 2](https://www.jdoodle.com/embed/v0/5Cpf)
+3. [BÀI 3](https://www.jdoodle.com/embed/v0/5Cpy)
+4. [BÀI 4](https://www.jdoodle.com/embed/v0/5CpI)
+## Bài 4: Các câu lệnh lặp
+### [Bài tập trong bài 4](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
+1. [BÀI 1:(Chương trình hiển thị giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n)](https://www.jdoodle.com/embed/v0/ 5wvs)
+2. [BÀI 2(xuất màn hình số nguyên dương n nhỏ nhất sao cho 1 + 2 +...+ n > 10000)](https://www.jdoodle.com/embed/v0/5xXZ)
+3. [BÀI 3( nhập số nguyên dương N bất kỳ và xuất ra màn hình số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m > N)](https://www.jdoodle.com/ nhúng/v0/5Dzj)
+4. [BÀI 4:(hiển thị tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93)](https://www.jdoodle.com/embed/v0/5DeP)
+### [Bài tập trong BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+1. [BÀI 1](https://www.jdoodle.com/embed/v0/5DzE)
+2. [BÀI 2](https://www.jdoodle.com/embed/v0/5xXZ)
+3. [BÀI 3](https://www.jdoodle.com/embed/v0/5DAv)
+4. [BÀI 4](https://www.jdoodle.com/embed/v0/5DAJ)
+5. [BÀI 5](https://www.jdoodle.com/embed/v0/5DBh)
+6. [BÀI 6](https://www.jdoodle.com/embed/v0/5Ee1)
+7. [BÀI 7](https://www.jdoodle.com/embed/v0/5EeQ)
+8. [BÀI 8](https://www.jdoodle.com/embed/v0/5DbP)
