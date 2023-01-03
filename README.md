@@ -1,6 +1,6 @@
 # NNLT
 ## Bài 3: Các câu lệnh rẽ nhánh
-### [Bài tập 1](jdoodle.com/a/5GFX)
+### [Bài tập 1](https://www.jdoodle.com/embed/v0/5GFX)
 
 2. [BÀI 2:(Nhập vào điểm của một học sinh từ 0 đến 10)](https://www.jdoodle.com/embed/v0/5ASx)
 3. [BÀI 3:(Nhập hai số a, b và một ký tự bất kỳ)](https://www.jdoodle.com/embed/v0/5ASc)
