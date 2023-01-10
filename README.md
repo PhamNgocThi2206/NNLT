@@ -10,4 +10,4 @@
 ### [Bài tập 2](https://www.jdoodle.com/embed/v0/5GGm)
 ### [Bài tập 3](https://www.jdoodle.com/embed/v0/5GGr)
 ### [Bài tập 4](https://www.jdoodle.com/embed/v0/5GGt)
-### [Bài tập](https://www.jdoodle.com/embed/v0/5GGF)
+### [Bài thi kết thuc môn](https://www.jdoodle.com/c-online-compiler/)
